@@ -1,5 +1,5 @@
 # System-Analysis-and-Design
-DriverPassis the client with Liam as the owner and Ian as his IT. They wanted me to design a website (preferably cloud) that provides online driving practice tests and the ability to book on-road driving sessions.
+DriverPass is the client, with Liam as the owner and Ian as his IT. They wanted me to design a website (preferably cloud) that provides online driving practice tests and the ability to book on-road driving sessions.
 
 I think I designed the entire system meeting all of the clients needs and created UML diagrams to accurately display these requirements.
 
